@@ -1,0 +1,4 @@
+creation_rules:
+  - path_regex: \.json$
+    pgp: >-
+      EDADE9C55CC6162F167FC7BF1918E54C198FBC15
